@@ -16,6 +16,10 @@ https://mumbai.polygonscan.com/address/0x12b935250e3204a2ac1dacc01dca68a3c3404cf
 ----------------
 Next test more dynamic incorporating upgradability only if a condition is met (here hodling a certain amount of token)
 
+contract here https://github.com/SustainabilityChain/dynamicNFT/blob/main/dNFT-final.sol
+
+Deployed here https://mumbai.polygonscan.com/tx/0x23417e51dd26e8d65f8d3dcc54f3fe6c4d31bc924ac64bc0e07824747caf0571
+
 ***Front end Test 3
 ----------------
 
