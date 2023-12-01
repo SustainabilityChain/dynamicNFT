@@ -32,5 +32,6 @@ cd frontend
 npm start dev
 
 
-and creating an frontend/src/App.js file along the lines of App.js
+and creating an frontend/src/App.js file along the lines of App.js in this very directory
+
 
