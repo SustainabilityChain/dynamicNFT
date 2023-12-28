@@ -1,6 +1,6 @@
 # dynamicNFT
 
-Here are three settings for dynamic NFTs. 
+Here are two fundamental settings plus a interface
 
 In the first setting the owner can edit features of the NFT. The features are currently not defined yet but can be implemented no sweat (IBEX categories and indicators)
 
