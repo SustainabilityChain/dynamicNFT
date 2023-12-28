@@ -23,7 +23,7 @@ https://mumbai.polygonscan.com/address/0x12b935250e3204a2ac1dacc01dca68a3c3404cf
 
 ***Test 2
 ----------------
-Next test more dynamic incorporating upgradability only if a condition is met (here hodling a certain amount of token) in the same way the dNFT could be downgraded under certain conditions
+This test represent a more dynamic incorporating upgradability only if a condition is met (here hodling a certain amount of token) in the same way the dNFT could be downgraded under certain conditions
 
 contract here https://github.com/SustainabilityChain/dynamicNFT/blob/main/dNFT-final.sol
 
