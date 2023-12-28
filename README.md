@@ -4,7 +4,7 @@ Here are two fundamental settings plus a interface
 
 In the first setting the owner can edit features of the NFT. The features are currently not defined yet but can be implemented no sweat (IBEX categories and indicators)
 
-In the second setting additional and external conditionality can be added. For example the another or the owner address needs to fulfil certain condition (own tokens etc)
+In the second setting additional and external conditionality can be added. For example another or the owner address needs to fulfil certain condition (own tokens etc.)
 
 
 
